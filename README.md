@@ -6,7 +6,7 @@
  
  ![dogs](dogs.jpeg)  
 
-2. **imagem original - upload para o copilote e prompt** 
+2. **imagem original - upload para o copilot e prompt** 
 
  ![1](1.png)  
 
