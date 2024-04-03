@@ -2,26 +2,35 @@
 
 **steps**
 
-1. ![dogs](dogs.jpeg)  
-**imagem original das minhas duas cadelas** 
+1. **imagem original das minhas duas cadelas** 
+ 
+ ![dogs](dogs.jpeg)  
 
-2. ![1](1.png)  
-**imagem original - upload para o copilote e prompt** 
+2. **imagem original - upload para o copilote e prompt** 
 
-3. ![2](2.png)  
-**resultado da descrição da imagem** 
+ ![1](1.png)  
 
-4. ![3](3.png)  
-**novo prompt para criação de uma nova imagem baseada na descrição** 
 
-5. ![4](4.png)  
-**resultado e novo prompt em inglês (boas práticas) para melhorar a imagem** 
+3. **resultado da descrição da imagem** 
 
-6. ![5](5.png)  
-**novo resultado** 
+    ![2](2.png)  
 
-7. ![melhor](melhor.jpg)  
-**resultado da imagem escolhida ao final do processo** 
+
+4. **novo prompt para criação de uma nova imagem baseada na descrição** 
+
+    ![3](3.png)  
+
+5. **resultado e novo prompt em inglês (boas práticas) para melhorar a imagem** 
+ 
+    ![4](4.png)  
+
+6. **novo resultado** 
+ 
+    ![5](5.png)  
+
+7. **resultado da imagem escolhida ao final do processo** 
+    
+    ![melhor](melhor.jpg)  
 
 
 **todas as imagens criadas estão disponíveis no projeto**
