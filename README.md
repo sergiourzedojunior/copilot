@@ -2,7 +2,7 @@
 
 **steps**
 
-1. ![dogs](dogs.png)  
+1. ![dogs](dogs.jpeg)  
 **imagem original das minhas duas cadelas** 
 
 2. ![1](1.png)  
@@ -20,7 +20,7 @@
 6. ![5](5.png)  
 **novo resultado** 
 
-7. ![melhor](melhor.png)  
+7. ![melhor](melhor.jpg)  
 **resultado da imagem escolhida ao final do processo** 
 
 
